@@ -1,4 +1,6 @@
 *.hdf5
+.ipynb_checkpoints/
+.__pycache__/
 
 # Windows image file caches
 Thumbs.db
