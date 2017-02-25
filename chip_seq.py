@@ -1,7 +1,4 @@
 
-# coding: utf-8
-
-# In[ ]:
 
 import matplotlib.pyplot as plt
 import numpy as np 
